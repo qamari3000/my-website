@@ -1,0 +1,33 @@
+body { 
+    font-family: Arial, sans-serif;
+    font-size: medium;
+    background-image: url('C:/Users/salma/Pictures/1733762328716.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 640px;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+h1{
+    color: #333;
+    
+}
+
+p{
+    color: #666;
+    font-size: 17px;
+    text-align: justify;
+    line-height: 1.3;
+}
+
